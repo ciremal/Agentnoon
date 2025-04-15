@@ -1,14 +1,6 @@
-# agentnoon
+# Agentnoon
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
+This is Eric Lam's submission for the Engineering Role coding test at Agentnoon. Given a CSV file containing people date, a responsive web application lays out a hierarchy of people's reporting lines, allowing nodes to be expanded and collapsed and display each node;s number of descendants and non-leaf descendants. This was created using Vue.js and Tailwind CSS.
 
 ## Project Setup
 
